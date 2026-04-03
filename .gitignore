@@ -1,0 +1,19 @@
+﻿# Dependencies
+/pubspec.lock
+/.packages
+/.dart_tool/
+
+# IDE
+/.idea/
+/.vscode/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Nested repo (exclude Labwork-1 if it has its own git)
+/Labwork-1/
+
+# Logs
+*.log
